@@ -4,8 +4,8 @@ title: Sample 2 blog post to learn markdown tips
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-cover-img: /portfolio_images/banner-copy.png
-thumbnail-img: /portfolio_images/profilepic-copy.png
+cover-img: /portfolio_images/bronco.jpg
+thumbnail-img: /portfolio_images/bronco.jpg
 share-img: /assets/img/path.jpg
 tags: [test]
 comments: true
