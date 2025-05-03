@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Writng Sample 1
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: portfolio_images/Banner copy.png
 thumbnail-img: /assets/img/thumb.png
