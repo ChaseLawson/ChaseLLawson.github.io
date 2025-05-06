@@ -30,4 +30,4 @@ Stay safe – Always pay attention to your surroundings and watch out for your p
 
 Stay together at all times and always keep your location updated. Communication is essential when it comes to vacation.
 
-[Article Link](https://www.hercampus.com/school/luma-college-girls-guide-to-spring-break-destinations/) !
+[Article Link](https://www.hercampus.com/school/lum/a-college-girls-guide-to-spring-break-destinations/) !
