@@ -4,7 +4,7 @@ title: About me
 subtitle: Chase Lawson Portfolio
 ---
 ![Banner](/portfolio_images/banner-copy.png)
-***
+
 ### My story
 
 Hello! I am an experienced Writing and Literary Development professional with

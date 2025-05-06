@@ -4,7 +4,7 @@ title: Nicole Hannah-Jones Martin Luther King, Jr. Convocation
 subtitle: Reflection Piece by Chase Lawson
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
-tags: [assignment, event reflection]
+tags: [Assignment, Event Reflection]
 author: Chase Lawson
 ---
 
