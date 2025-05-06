@@ -1,0 +1,16 @@
+---
+layout: post
+title: Congo's Past Is Still Present
+subtitle: Blog Excerpt by Chase Lawson
+cover-img: portfolio_images/congo.jpg
+share-img: portfolio_images/congo.jpg
+tags: [Final Project, WordPress, Blog]
+author: Chase Lawson
+---
+## Congo's Past Is Still Present
+
+The New York Times article discusses the Democratic Republic of Congo (DRC) considering auctioning off large swathes of rainforest and peatland for oil and gas exploration, a decision that highlights the complex relationships between the region's resource exploitation and economic despair and its roots historically. The Congo has long been a gatekeeper state, the home of vast natural resources while facing capitalist infrastructure forces eager for extraction. Today, the high demand for oil risks repeating past extraction injustices in Africa. While the Congo seeks economic gain to improve its global status and economy, this push for oil extraction endangers both the ecosystem and global climate, creating a cycle of exploitation with severe ecological and socio-economic consequences. This extraction dynamic reflects a broader disregard for Africa's lands and their civilians. The Congolese government's focus on revenue risks prioritizing short-term gains over environmental and long-term national stability. So similar historically to European perspectives and ambitions this auction raises serious concerns about the economic benefits and vision to financial stability and if that will outweigh the consequences, or if this is another cycle of mass extraction and irrevocable exploitation that the Congo will not be able recover.
+
+The capitalist drive for oil production in the Congo without meaningful regard for the Congo as a nation illustrates a broader pattern of sacrificing in this modern day instance critical natural lands for short-term capitalist gain. The Congo Basin rainforest is a globally significant carbon sink, crucial for global climate change. Allowing oil companies to explore and drill these lands threatens deforestation, large carbon emissions, and disruption of local communities. Historically, the concept of the "gatekeeper state" refers to the colonial era practice of British governments controlling access to resources and Africa's economy. In the case of the Congo's oil auction, this global capitalist dynamic is evident. The historical context of resource exploitation and manipulation reminds us of the cycles that have kept the Congo in a vulnerable position. Historically, the demand for labor and resources during events like WWI highlights Europe’s exploitative practices where labor was increased due to demand impacting populations like the Congo. The Congolese government is attempting to mirror historical ambitions in creating a market trade with global companies and valuable resources, seeking to control revenue and their economic growth independently now. However, history shows that this method of exploitation often results in little long-term benefit for the population and a higher likelihood of further establishing economic and global capitalism inequalities. 
+
+[Read more using this WordPress Link](https://thecllawsonblog.wordpress.com) !

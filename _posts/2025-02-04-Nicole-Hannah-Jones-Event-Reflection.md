@@ -7,6 +7,7 @@ share-img: /assets/img/path.jpg
 tags: [Assignment, Event Reflection]
 author: Chase Lawson
 ---
+## Reflection: Nicole Hannah-Jones Martin Luther King, Jr. Convocation 
 
 Nicole Hannah-Jones, an author, journalist, historian, and activist, joined Loyola University Maryland's annual “Martin Luther King, Jr. Convocation” on Monday, January 27, 2025. A conversation was held, guided by two Loyola professors and Nicole Hannah-Jones herself. Nicole Hannah-Jones, a MacArthur Fellowship and Pulitzer Award-winning author, is also a two-time New York Times Best Seller with “The 1619 Project” and her children’s book “Born on the Water”. “The 1619 Project” is also now being turned into a documentary on Hulu, as it opened the eyes of so many people who were unaware of the true nature and roots of Black history, as the narrative has changed over the course of decades. Nicole Hannah-Jones has also founded a school in her hometown and is very active within her historical project and contributions to the historical and Black community as a whole, serving as the Chair of Race and Journalism at Howard University. I can truly say this was one of the most powerful, authentic, and raw conversations I've ever witnessed, and I'm grateful for the privilege and opportunity to attend this event and truly listen, letting the words truly resonate. 
 
