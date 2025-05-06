@@ -22,5 +22,3 @@ My adaptable skill set, commitment to organized development to produce literary
 excellence, and passion for discovering and creating new voices position me as a
 valuable asset. In my spare time, I like to read fiction novels, go to the gym, and crochet.
 You can find me here on LinkedIn - www.linkedin.com/in/cleighlawson!
-
-[LinkedIn](www.linkedin.com/in/cleighlawson) !
